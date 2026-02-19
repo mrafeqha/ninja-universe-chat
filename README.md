@@ -1,4 +1,4 @@
-# ninja-universe-chat
+# ollama_project
 🥷 Ninja Family Universe AI
 
 An interactive AI-powered character chat application built using Streamlit and Ollama, featuring animated ninja-themed UI, dynamic background effects, and personality-based conversational agents.
